@@ -36,10 +36,10 @@ header img {
   width: 18%;
   min-width: 180px;
   border-radius: 50%;
-  margin: 0 auto;
-  padding-top: 70px;
-  padding-bottom: 70px;
   display: block;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 30px;
 }
 
 header {
@@ -73,15 +73,6 @@ header p {
   padding-top: 20px;
 }
 
-header a {
-    border-bottom: 1px solid #ecf0f1;
-    transition: border-bottom-color .55s;
-}
-
-header a:hover {
-  border-bottom-color: #2F3738;
-}
-
 /*---------------
 PORTFOLIO STYLES
 ---------------*/
@@ -96,22 +87,22 @@ PORTFOLIO STYLES
   color: #2F3738;
   font-size: 2em;
   font-weight: normal;
-  margin-bottom: 0;
+  margin-bottom: 0.5em;
+  border-top: 1px solid grey;
+  display: inline-block;
 }
 
 .portfolio h3 {
   color: #2F3738;
   font-size: 1.5em;
   font-weight: normal;
-  margin: 10px 0 5px 0;
+  margin: 10px 0 0 0;
   padding: 0;
 }
 
 .category-header {
   margin: 0;
   font-size: 16px;
-  border-bottom: 1px solid #E0E0E0;
-  display: inline-block;
 }
 
 .portfolio ul {
@@ -132,32 +123,26 @@ PORTFOLIO STYLES
   max-width: 240px;
   border-radius: 12px;
   box-shadow: 2px 2px 20px -2px rgba(207,207,207,1);
-
 }
 
 .portfolio p {
-  margin-top: 1em;
   margin-bottom: 2em;
 }
 
 .project_date {
   font-size: 1em;
+  margin-top: 0.2em;
   display: inline-block;
+  color: #2ecc71;
 }
 
-.project_won {
-  border-color: #2ecc71;
-  color: #2ecc71;
+.pastProject {
+  color: #676767;
 }
 
 .portfolio a {
   color: #95a5a6;
   transition: color .5s;
-}
-
-.portfolio a:hover {
-  border-bottom: none;
-  color: #2F3738;
 }
 
 /*---------------
@@ -221,23 +206,25 @@ CLEARFIX
 MEDIA QUERIES
 ---------------*/
 
-@media (min-width: 960px) {
-
+@media (min-width: 920px) {
   header h1 {
     font-size: 2.8em;
   }
 
   header p {
-    width: 60%;
-  }
-
-  .portfolio {
-    width: 75%;
+    width: 50%;
   }
 
   .portfolio li {
     float: left;
-    width: 33.3%;
+    width: 29.3%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+
+  #tvOSSection img {
+    width: 100%;
+    max-width: 320px;
   }
 
   .portfolio li:nth-child(4) {
@@ -246,5 +233,17 @@ MEDIA QUERIES
 
   .achievements {
     width: 75%;
+  }
+}
+
+@media (min-width: 1220px) {
+  .portfolio {
+    width: 80%;
+  }
+}
+
+@media (min-width: 920px) and (max-width: 1219px){
+  .portfolio {
+    width: 90%;
   }
 }
