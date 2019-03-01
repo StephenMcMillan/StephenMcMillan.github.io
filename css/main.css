@@ -100,6 +100,11 @@ PORTFOLIO STYLES
   padding: 0;
 }
 
+.portfolio p {
+  width: 70%;
+  margin: auto;
+}
+
 .category-header {
   margin: 0;
   font-size: 16px;
@@ -192,6 +197,48 @@ footer p {
 
 footer a:hover {
   border-bottom: none;
+}
+
+.device_screenshots_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.device_screenshots_container img {
+  width: 30%;
+  height: 30%;
+  max-height: auto;
+  border-radius: 6px;
+}
+
+.project_detail_header {
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 100px;
+  background-color: rgba(42,56,72,1);
+}
+
+#pixelplane {
+  background-color: #5AA1D2;
+}
+
+.project_detail_header h1 {
+  font-weight: normal;
+  font-size: 2em;
+  color: white;
+
+}
+
+.project_detail_header p {
+  display: block;
+  font-size: 1.1em;
+  color: rgba(255,255,255,0.8);
+}
+.project_detail_header_content {
+  width: 65%;
+  text-align: center;
+  margin: auto;
 }
 
 /*---------------

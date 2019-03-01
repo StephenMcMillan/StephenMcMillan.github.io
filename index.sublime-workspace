@@ -1,0 +1,240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"power",
+				"POWER_LED"
+			],
+			[
+				"RETRA",
+				"retractPiston"
+			],
+			[
+				"setlcd",
+				"setLCDOptions"
+			],
+			[
+				"digit",
+				"digitalWrite\tArduino digitalWrite"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"activate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"act",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stephenmcmillan/Downloads/iconfinder_EMOTION_3-10_2713603.svg",
+		"/Users/stephenmcmillan/Downloads/project-submission 2/README.md",
+		"/Users/stephenmcmillan/Library/Developer/Xcode/UserData/FontAndColorThemes/Batman.xccolortheme",
+		"/Users/stephenmcmillan/Documents/Treehouse iOS Tech Degree/Unit 4/Amusement Park Pass Generator/.git/logs/refs/heads/master",
+		"/Users/stephenmcmillan/Desktop/Can Crusher Program.ino",
+		"/Users/stephenmcmillan/Desktop/testing_buttons/testing_buttons.ino",
+		"/Users/stephenmcmillan/Documents/Arduino/libraries/rfid-master/examples/ReadNUID/ReadNUID.ino",
+		"/Users/stephenmcmillan/Documents/Arduino/libraries/rfid-master/examples/AccessControl/AccessControl.ino",
+		"/Users/stephenmcmillan/Documents/Arduino/libraries/rfid/examples/DumpInfo/DumpInfo.ino",
+		"/applications/Arduino.app/Contents/Java/examples/01.Basics/Blink/Blink.ino",
+		"/Users/stephenmcmillan/Library/Arduino15/packages.stino-settings",
+		"/Users/stephenmcmillan/Documents/Arduino/RGB_Leds/RGB_Leds.ino",
+		"/Users/stephenmcmillan/Documents/Development/NI Trains Live/NI Trains Live/sampleTrainData2.xml",
+		"/Users/stephenmcmillan/Documents/Development/NI Trains Live/NI Trains Live/sampleTrainData1.xml",
+		"/Users/stephenmcmillan/Desktop/FlightLogger/Views/edit.stencil",
+		"/Users/stephenmcmillan/Desktop/FlightLogger Site/untitled.html",
+		"/Users/stephenmcmillan/Desktop/testserver/Views/footer.stencil",
+		"/Users/stephenmcmillan/Desktop/testserver/Views/staff.stencil",
+		"/Users/stephenmcmillan/Desktop/testserver/Views/contact.stencil",
+		"/Users/stephenmcmillan/Desktop/testserver/Views/home.stencil",
+		"/Users/stephenmcmillan/Desktop/testserver/Views/master.stencil",
+		"/Users/stephenmcmillan/Desktop/testserver/Sources/testserver/main.swift",
+		"/Users/stephenmcmillan/Desktop/server/Views/master.stencil",
+		"/Users/stephenmcmillan/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 47.0
+	},
+	"output.stino_panel":
+	{
+		"height": 610.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
